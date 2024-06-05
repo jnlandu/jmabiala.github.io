@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jnlandu.github.iojmabiala.github.io/sitemap.xml
+Sitemap: https://jnlandu.github.io/sitemap.xml
